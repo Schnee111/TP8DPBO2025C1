@@ -30,7 +30,7 @@ Aplikasi ini terdiri dari 4 modul utama:
 ## Struktur Folder
 
 ```
-TP8DPBO2025C1/
+project/
 │
 ├── assets/
 │   ├── bootstrap.min.css
@@ -62,7 +62,6 @@ TP8DPBO2025C1/
 │   ├── Club.view.php
 │   └── ClubMember.view.php
 │
-├── db_student_club.sql   ← struktur DB
 ├── index.php             ← halaman utama (redirect ke siswa)
 ├── student.php           ← halaman manajemen siswa
 ├── club.php              ← halaman manajemen klub
